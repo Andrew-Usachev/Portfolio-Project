@@ -646,7 +646,7 @@ class iBench(Selen):
 
 
 if __name__ == "__main__":
-    # iBench('Edge').foot_nav_menu()
+    iBench('Edge').foot_nav_menu()
     # iBench().login()
     # iBench().head_nav_menu()
     # iBench('Seleniumwire').login()
@@ -659,7 +659,7 @@ if __name__ == "__main__":
     # iBench().nt_registration_200_symbol_pswd()
     # iBench().nt_registration_with_not_accepted_terms()
     # iBench().adhoc_system_not_accepts_certain_value_digits()
-    iBench().adhoc_system_not_accepts_certain_value_symbols()
+    # iBench().adhoc_system_not_accepts_certain_value_symbols()
     # iBench().adhoc_system_has_restrictions_on_field_symbol_amount()
     # iBench().adhoc_system_has_restrictions_on_field_fixed_price()
     # iBench().bt_5_find_contractors()

@@ -1,6 +1,6 @@
 import unittest
 import HtmlTestRunner
-
+from HtmlTestRunner import HTMLTestRunner
 
 from ibench import iBench
 
