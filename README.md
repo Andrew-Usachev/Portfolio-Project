@@ -22,5 +22,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-1572B6?style=for-the-badge&logo=Confluence&logoColor=white)
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" /> &nbsp;
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" /> &nbsp;
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" height="30" /> &nbsp;
+<img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" height="30" /> &nbsp;
 
 📩 If you have any questions, feel free to contact <a href="mailto:usachev.com@gmail.com">me</a>**  
