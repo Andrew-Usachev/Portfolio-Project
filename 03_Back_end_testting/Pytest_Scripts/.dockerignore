@@ -1,0 +1,4 @@
+*.md
+__paycache__
+env
+venv
